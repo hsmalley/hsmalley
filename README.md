@@ -1,4 +1,4 @@
-### 🌟 Hello there 👋 
+### 🌟 Hello there 👋
 
 - 🔭 I’m currently working on HPC & Cloud
 - 🌱 I’m currently learning Rust
