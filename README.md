@@ -7,7 +7,7 @@ copyright: CC-BY-SA
 comment: General Kenobe
 ---
 
-# 🌟 Hello there 👋
+# 🌟 Hello there 🖖
 
 - 🔭 I’m currently working on HPC & Cloud
 - 🌱 I’m currently learning Rust & [Warewulf](https://warewulf.org/)
