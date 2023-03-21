@@ -1,7 +1,7 @@
 ---
-title: MY README!
+title: README.md
 author: Hugh Smalley
-affiliation: https://hsmalley.github.io
+website: https://hsmalley.github.io
 date: March 20, 2023
 copyright: CC-BY-SA
 comment: General Kenobe
