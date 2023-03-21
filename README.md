@@ -20,4 +20,4 @@ comment: General Kenobe
 
 Here's a few popular things I know about:
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,azure,aws,bash,bsd,cloudflare,docker,figma,git,github,gitlab,go,grafana,html,ipfs,kubernetes,linux,md,mysql,neovim,nginx,openshift,openstack,postgres,powershell,py,redis,sqlite,vim,vscode&perline=10)
+![My Skills](https://skillicons.dev/icons?i=ansible,azure,aws,bash,bsd,cloudflare,docker,figma,git,github,gitlab,go,grafana,html,ipfs,kubernetes,linux,md,mysql,neovim,nginx,openshift,openstack,postgres,powershell,py,redis,sqlite,vim,vscode&perline=10)
