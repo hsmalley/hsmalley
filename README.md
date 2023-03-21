@@ -18,6 +18,6 @@ comment: General Kenobe
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I solved a rubik's cube… by accident… once
 
-Here's a few popular things I know about:
+Here's a few popular things I know about: [Interested in knowing more?](https://hsmalley.github.io/cv)
 
 ![My Skills](https://skillicons.dev/icons?i=ansible,azure,aws,bash,bsd,cloudflare,docker,figma,git,github,gitlab,go,grafana,html,ipfs,kubernetes,linux,md,mysql,neovim,nginx,openshift,openstack,postgres,powershell,py,redis,sqlite,vim,vscode&perline=10)
