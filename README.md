@@ -1,10 +1,10 @@
 ---
-Title: MY README!
-Author: Hugh Smalley
-Affiliation: https://hsmalley.github.io
-Date: March 20, 2023
-Copyright: CC-BY-SA
-Comment: General Kenobe
+title: MY README!
+author: Hugh Smalley
+affiliation: https://hsmalley.github.io
+date: March 20, 2023
+copyright: CC-BY-SA
+comment: General Kenobe
 ---
 
 # 🌟 Hello there 👋
