@@ -1,3 +1,12 @@
+---
+Title: MY README!
+Author: Hugh Smalley
+Affiliation: https://hsmalley.github.io
+Date: March 20, 2023
+Copyright: CC-BY-SA
+Comment: General Kenobe
+---
+
 # 🌟 Hello there 👋
 
 - 🔭 I’m currently working on HPC & Cloud
