@@ -14,7 +14,7 @@ Comment: General Kenobe
 - 👯 I’m looking to collaborate on HPC, Ansible, Scripting & Automation, Rocky Linux (Or any EL Linux)
 - 🤔 I’m looking for help with Warewulf, Rocky Linux
 - 💬 Ask me about HPC, OS Deployments, and Systems Automation! THAT'S MY JAM!
-- 📫 How to reach me: [Submit an Issue]([https://github.com/hsmalley/hsmalley](https://github.com/hsmalley/hsmalley/issues)), [Email me](mailto:hsmalley_at_protonmail.com), or 146.52 MHZ
+- 📫 How to reach me: [Submit an Issue](https://github.com/hsmalley/hsmalley/issues), [Email me](mailto:hsmalley_at_protonmail.com), or 146.52 MHZ
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I solved a rubik's cube… by accident… once
 
