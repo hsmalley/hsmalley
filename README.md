@@ -7,6 +7,8 @@ copyright: CC-BY-SA
 comment: General Kenobe
 ---
 
+![](https://avatars.githubusercontent.com/u/1560877?v=4 "Hi! I'm Hugh!")
+
 # 🌟 Hello there 🖖
 
 - 🔭 I’m currently working on HPC & Cloud
@@ -19,8 +21,11 @@ comment: General Kenobe
 
 # Public Keys
 
-- SSH: [github.com/keys](https://github.com/hsmalley.keys)
+- [SSH](https://github.com/hsmalley.keys):
+  - 256 SHA256:ZTRXJjRpT7iBRQPjg6yhRFg0IyaJYk65Muld1rDXjHM
+  - 256 SHA256:vqzs0vLcOcbUrosQ3g0fU9Y4QXtlFkQpWPYyLnCeMgU
 - iMessage: APKTIDX-Ff9H1eVIIuOiq2w7oBLP-jA9zabnJ8orw5Ec69yN_Lwg
+- AGE: age1ymgazrh7a9xqk7a4xp3eazd9evmxs4xdvugv07kejehsmcu29p2qyjewle
 - GPG: FFE8 3CCF 6C98 5B10 E778  3DBE 2E3E 0050 AEC3 6DBA
 
 Here's a few popular things I know about: [Interested in knowing more?](https://hsmalley.github.io/cv)
