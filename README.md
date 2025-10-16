@@ -22,8 +22,9 @@ comment: General Kenobe
 # Public Keys
 
 - [SSH](https://github.com/hsmalley.keys):
-  - 256 SHA256:ZTRXJjRpT7iBRQPjg6yhRFg0IyaJYk65Muld1rDXjHM
-  - 256 SHA256:vqzs0vLcOcbUrosQ3g0fU9Y4QXtlFkQpWPYyLnCeMgU
+  - 256 SHA256:vqzs0vLcOcbUrosQ3g0fU9Y4QXtlFkQpWPYyLnCeMgU (ED25519)
+  - 256 SHA256:oPoT/iBt1mS8mHafBi73H8fyG8++IU2xYbdU1VH0VAc (ED25519)
+  - 256 SHA256:ZTRXJjRpT7iBRQPjg6yhRFg0IyaJYk65Muld1rDXjHM (ED25519)
 - iMessage: APKTIDX-Ff9H1eVIIuOiq2w7oBLP-jA9zabnJ8orw5Ec69yN_Lwg
 - AGE: age1ymgazrh7a9xqk7a4xp3eazd9evmxs4xdvugv07kejehsmcu29p2qyjewle
 - GPG: FFE8 3CCF 6C98 5B10 E778  3DBE 2E3E 0050 AEC3 6DBA
