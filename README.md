@@ -31,3 +31,5 @@ GPG fingerprint: `FFE8 3CCF 6C98 5B10 E778 3DBE 2E3E 0050 AEC3 6DBA`
 Here's a few popular things I know about: [Interested in knowing more?](https://hsmalley.github.io/cv)
 
 ![My Skills](https://skillicons.dev/icons?i=ansible,azure,aws,bash,bsd,cloudflare,docker,figma,git,github,gitlab,go,grafana,html,ipfs,kubernetes,linux,md,mysql,neovim,nginx,openshift,openstack,postgres,powershell,py,redis,sqlite,vim,vscode&perline=10)
+
+proven6a32d8
