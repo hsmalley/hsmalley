@@ -26,7 +26,9 @@ iMessage: `APKTIDX-Ff9H1eVIIuOiq2w7oBLP-jA9zabnJ8orw5Ec69yN_Lwg`
 - `256 SHA256:oPoT/iBt1mS8mHafBi73H8fyG8++IU2xYbdU1VH0VAc (ED25519)`
 - `256 SHA256:ZTRXJjRpT7iBRQPjg6yhRFg0IyaJYk65Muld1rDXjHM (ED25519)`
 
-GPG fingerprint: `FFE8 3CCF 6C98 5B10 E778 3DBE 2E3E 0050 AEC3 6DBA`
+GPG fingerprint: 
+- `5679 46AB 9942 DBF1 CF8A  655A BABC 5FAE 7E3C 39AE`
+- `FFE8 3CCF 6C98 5B10 E778 3DBE 2E3E 0050 AEC3 6DBA`
 
 Here's a few popular things I know about: [Interested in knowing more?](https://hsmalley.github.io/cv)
 
